@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CIS023_S2020_LabGRd", "CIS023_S2020_LabGRd\CIS023_S2020_LabGRd.vcxproj", "{CF4CC7AA-5EE9-472A-9012-F71D85EBFAE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF4CC7AA-5EE9-472A-9012-F71D85EBFAE4}.Debug|x64.ActiveCfg = Debug|x64
+		{CF4CC7AA-5EE9-472A-9012-F71D85EBFAE4}.Debug|x64.Build.0 = Debug|x64
+		{CF4CC7AA-5EE9-472A-9012-F71D85EBFAE4}.Debug|x86.ActiveCfg = Debug|Win32
+		{CF4CC7AA-5EE9-472A-9012-F71D85EBFAE4}.Debug|x86.Build.0 = Debug|Win32
+		{CF4CC7AA-5EE9-472A-9012-F71D85EBFAE4}.Release|x64.ActiveCfg = Release|x64
+		{CF4CC7AA-5EE9-472A-9012-F71D85EBFAE4}.Release|x64.Build.0 = Release|x64
+		{CF4CC7AA-5EE9-472A-9012-F71D85EBFAE4}.Release|x86.ActiveCfg = Release|Win32
+		{CF4CC7AA-5EE9-472A-9012-F71D85EBFAE4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B1902E6-C655-48E3-A1E7-87F848388954}
+	EndGlobalSection
+EndGlobal
