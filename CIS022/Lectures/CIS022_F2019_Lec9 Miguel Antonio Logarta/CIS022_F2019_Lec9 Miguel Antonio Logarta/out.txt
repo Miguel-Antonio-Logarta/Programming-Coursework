@@ -1,0 +1,20 @@
+Starr, Hogan, 87, B
+Terry, Anderson, 91, A, Highest score
+Larry, Junstrom, 58, F
+Jerald, South, 74, C
+Terrence, Montez, 83, B
+Aidan, Herbst, 29, F
+Caitlynn, Ferrara, 54, F
+Zelda, Blum, 81, B
+Jeramy, Fanning, 84, B
+Nathan, Evers, 72, C
+Isabel, Courtney, 65, D
+Harris, Kidder, 79, C
+Omayra, Snyder, 90, A
+Ashli, Fournier, 87, B
+James, Fultz, 88, B
+Phyllis, Simon, 68, D
+Gaynell, Katz, 76, C
+Claudio, Valladares, 91, A, Highest score
+Kassie, Hinkle, 58, F
+Sierra, Chan, 64, D
